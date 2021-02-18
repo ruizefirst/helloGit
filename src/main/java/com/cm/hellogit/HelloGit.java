@@ -9,5 +9,6 @@ public class HelloGit {
         System.out.println("分支新增");
         System.out.println("在线更新");
         System.out.println("在线修改项目名称");
+        System.out.println("测试ssh");
     }
 }
